@@ -1,0 +1,16 @@
+{
+  "Attributes": [
+    "Analyst",
+    "as_of_date",
+    "Custodian123",
+    "is_selected",
+    "market_price_base_eod",
+    "market_price_local_eod",
+    "market_value_base_eod",
+    "market_value_local_eod",
+    "total_base_dtd",
+    "total_base_mtd",
+    "total_base_qtd",
+    "total_base_ytd"
+  ]
+}
